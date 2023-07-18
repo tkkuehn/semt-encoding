@@ -1,0 +1,310 @@
+{
+  "title": "Semantic Encoding Memory",
+  "description": "SEMT is an offline cognitive task [1] designed to challenge the episodic memory as schizophrenia patients have significant memory difficulties that have far-reaching implications in their daily life. This version has been designed to work with fmri.",
+  "identifier": {
+    "identifier": "https://doi.org/10.17605/OSF.IO/D8WK4",
+    "identifierSource": "DOI"
+  },
+  "creators": [
+    {
+      "abbreviation": "",
+      "fullName": "",
+      "firstName": "Synthia",
+      "lastName": "Guimond",
+      "email": "",
+      "affiliations": [
+        {
+          "name": "The Royal's Institute of Mental Health Research"
+        },
+        {
+          "name": "University of Québec in Outaouais"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Contributor"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-1582-7258"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "csv"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "GNU GPL 3.0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [],
+      "size": 19.8,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://osf.io/d8wk4/",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Prefrontal activity and impaired memory encoding strategies in schizophrenia",
+      "publicationVenue": "Journal of Psychiatric Research",
+      "authors": [
+        {
+          "fullName": "Synthia Guimond",
+          "firstName": "Synthia",
+          "middleInitial": "",
+          "lastName": "Guimond",
+          "affiliations": [
+            {
+              "name": "McGill University"
+            }
+          ]
+        },
+        {
+          "fullName": "Colin Hawco",
+          "firstName": "Colin",
+          "middleInitial": "",
+          "lastName": "Hawco",
+          "affiliations": [
+            {
+              "name": "Centre for Addition and Mental Health"
+            }
+          ]
+        },
+        {
+          "fullName": "Martin Lepage",
+          "firstName": "Martin",
+          "middleInitial": "M",
+          "lastName": "Lepage",
+          "affiliations": [
+            {
+              "name": "McGill University"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "date": "2017-03-19 00:00:00",
+          "type": {
+            "value": "published"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://doi.org/10.1016/j.jpsychires.2017.02.024",
+        "identifierSource": "DOI"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "schizophrenia"
+    },
+    {
+      "value": "episodic memory"
+    },
+    {
+      "value": "associative encoding"
+    },
+    {
+      "value": "encoding strategies"
+    },
+    {
+      "value": "dorsolateral prefrontal cortex"
+    },
+    {
+      "value": "SEMT"
+    },
+    {
+      "value": "psychosis"
+    },
+    {
+      "value": "psychopy"
+    },
+    {
+      "value": "pavlovia"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "290"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Douglas Research Centre / McGill University"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Montreal"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.gif"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Katie M. Lavigne, katie.lavigne@mcgill.ca"
+        }
+      ]
+    },
+    {
+      "category": "experimentFunctionAssessed",
+      "values": [
+        {
+          "value": {
+            "value": "Cognitive"
+          }
+        }
+      ]
+    },
+    {
+      "category": "experimentLanguages",
+      "values": [
+        {
+          "value": "English"
+        },
+        {
+          "value": "French"
+        }
+      ]
+    },
+    {
+      "category": "experimentAccessibility",
+      "values": [
+        {
+          "value": "Hearing impairment"
+        }
+      ]
+    },
+    {
+      "category": "experimentModalities",
+      "values": [
+        {
+          "value": {
+            "value": "fMRI"
+          }
+        }
+      ]
+    },
+    {
+      "category": "experimentRequiredDevices",
+      "values": [
+        {
+          "value": "Computer"
+        },
+        {
+          "value": "Laptop"
+        }
+      ]
+    },
+    {
+      "category": "experimentStimuli",
+      "values": [
+        {
+          "value": "Image"
+        }
+      ]
+    },
+    {
+      "category": "experimentAdditionalRequirements",
+      "values": [
+        {
+          "value": "2-button response device"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that these data are not derived from human participants."
+        }
+      ]
+    }
+  ]
+}
